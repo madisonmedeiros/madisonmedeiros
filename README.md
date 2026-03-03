@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Madison 👋
+
+I'm a computational biologist with an M.S. in Bioinformatics from UMass Lowell,
+specializing in cancer genomics and rare variant analysis. My graduate research
+focused on gene-based burden testing in neuroblastoma — identifying candidate
+cancer genes using large-scale genomic data, HPC pipelines, and population
+databases like gnomAD and COSMIC.
+
+I'm currently building toward a career in cancer bioinformatics, deepening my
+skills in RNA-seq analysis, somatic variant calling, and pipeline development
+with Python, R, and Linux.
+
+---
+
+## 🧬 What I work with
+- Rare variant burden testing (RV-Excalibur, ANNOVAR, gnomAD)
+- VCF processing and variant annotation
+- Python (pandas, scripting, pipeline automation)
+- HPC / SLURM job scheduling
+- Cancer genomics databases (COSMIC, ClinVar, gnomAD)
+
+---
+
+## 🏅 Outside the lab
+Before bioinformatics, I was a Division I athlete at Merrimack College — which
+taught me more about discipline and performing under pressure than anything else.
+
+When I'm not coding I'm playing video games or spending time with my wife,
+our dog, and our cat. 🐾
+
+---
+
+📫 Reach me at: [madisonmedeiros99@gmail.com]  
+🔗 [neuroblastoma-rare-variant-analysis](https://github.com/madisonmedeiros/neuroblastoma-rare-variant-analysis)
 
 <!--
 **madisonmedeiros/madisonmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
