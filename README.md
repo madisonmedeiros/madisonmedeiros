@@ -23,7 +23,7 @@ with Python, R, and Linux.
 
 ## 🏅 Outside the lab
 Before bioinformatics, I was a Division I athlete at Merrimack College — which
-taught me more about discipline and performing under pressure than anything else.
+taught me more about discipline and performing under pressure more than anything else.
 
 When I'm not coding I'm playing video games or spending time with my wife,
 our dog, and our cat. 🐾
