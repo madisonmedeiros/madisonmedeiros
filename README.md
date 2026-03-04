@@ -1,18 +1,18 @@
-# Hi, I'm Madison 👋
+# Hi, I'm Maddie 👋
 
-I'm a computational biologist with an M.S. in Bioinformatics from UMass Lowell,
-specializing in cancer genomics and rare variant analysis. My graduate research
-focused on gene-based burden testing in neuroblastoma — identifying candidate
+I'm a computational biologist with an M.S. in Bioinformatics from UMass Lowell. I
+specialize in cancer genomics and rare variant analysis. My graduate research
+focused on gene-based burden testing in neuroblastoma. I identified candidate
 cancer genes using large-scale genomic data, HPC pipelines, and population
 databases like gnomAD and COSMIC.
 
-I'm currently building toward a career in cancer bioinformatics, deepening my
-skills in RNA-seq analysis, somatic variant calling, and pipeline development
+I'm currently building toward a career in cancer bioinformatics. Currently, I am working on
+deepening my skills in RNA-seq analysis, somatic variant calling, and pipeline development
 with Python, R, and Linux.
 
 ---
 
-## 🧬 What I work with
+## 🧬 What I have worked with
 - Rare variant burden testing (RV-Excalibur, ANNOVAR, gnomAD)
 - VCF processing and variant annotation
 - Python (pandas, scripting, pipeline automation)
@@ -22,11 +22,11 @@ with Python, R, and Linux.
 ---
 
 ## 🏅 Outside the lab
-Before bioinformatics, I was a Division I athlete at Merrimack College — which
-taught me more about discipline and performing under pressure more than anything else.
+During undergrad, I was part of the varsity softball team at Merrimack College, where I learned
+valuable skills like time management and leadership.
 
-When I'm not coding I'm playing video games or spending time with my wife,
-our dog, and our cat. 🐾
+When I'm not coding, I'm playing video games or spending time with my wife,
+our dog, Nova, and our cat, Simmy! 🐾
 
 ---
 
