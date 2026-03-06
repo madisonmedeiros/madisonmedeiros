@@ -1,5 +1,4 @@
-# Hi, I'm Maddie 👋
-
+#*＊✿❀　❀✿＊* Hi, I'm Maddie *＊✿❀　❀✿＊*
 I'm a computational biologist with an M.S. in Bioinformatics from UMass Lowell. I
 specialize in cancer genomics and rare variant analysis. My graduate research
 focused on gene-based burden testing in neuroblastoma. I identified candidate
@@ -12,7 +11,7 @@ with Python, R, and Linux.
 
 ---
 
-## 🧬 What I have worked with
+##  What I have worked with
 - Rare variant burden testing (RV-Excalibur, ANNOVAR, gnomAD)
 - VCF processing and variant annotation
 - Python (pandas, scripting, pipeline automation)
@@ -21,7 +20,7 @@ with Python, R, and Linux.
 
 ---
 
-## 🏅 Outside the lab
+##  Outside the lab
 During undergrad, I was part of the varsity softball team at Merrimack College, where I learned
 valuable skills like time management and leadership.
 
