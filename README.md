@@ -11,7 +11,7 @@ with Python, R, and Linux.
 
 ---
 
-##  What I have worked with
+##  *ೃ༄ What I have worked with .ೃ࿐
 - Rare variant burden testing (RV-Excalibur, ANNOVAR, gnomAD)
 - VCF processing and variant annotation
 - Python (pandas, scripting, pipeline automation)
@@ -20,7 +20,7 @@ with Python, R, and Linux.
 
 ---
 
-##  Outside the lab
+##  *ೃ༄ Outside the lab  .ೃ࿐
 During undergrad, I was part of the varsity softball team at Merrimack College, where I learned
 valuable skills like time management and leadership.
 
