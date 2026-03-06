@@ -1,4 +1,4 @@
-#*＊✿❀　❀✿＊* Hi, I'm Maddie *＊✿❀　❀✿＊*
+# *＊✿❀　❀✿＊* Hi, I'm Maddie *＊✿❀　❀✿＊*
 I'm a computational biologist with an M.S. in Bioinformatics from UMass Lowell. I
 specialize in cancer genomics and rare variant analysis. My graduate research
 focused on gene-based burden testing in neuroblastoma. I identified candidate
