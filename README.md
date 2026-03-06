@@ -25,7 +25,7 @@ During undergrad, I was part of the varsity softball team at Merrimack College, 
 valuable skills like time management and leadership.
 
 When I'm not coding, I'm playing video games or spending time with my wife,
-our dog, Nova, and our cat, Simmy! 🐾
+our dog, Nova, and our cat, Simmy! ฅ^•ﻌ•^ฅ
 
 ---
 
